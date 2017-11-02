@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Windows如何修改Mysql用户的root密码
 date: 2017-10-31 22:12:12
 tags: mysql

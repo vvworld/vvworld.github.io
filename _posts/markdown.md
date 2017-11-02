@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Markdown语法手册（转）
 date: 2017-10-31 22:30:39
 tags: markdown
