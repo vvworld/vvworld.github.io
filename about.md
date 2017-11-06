@@ -3,51 +3,16 @@ layout: page
 title: 关于我 
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
-<p>
-平时喜欢整理个人博客，逛逛技术论坛。
-<p>
-了解一些 前端 基本概念和 Python 的简单用法。
+##介绍
+JAVA程序员 就职于[广州极天信息技术股份有限公司](http://www.gzjtit.com/)
+极天信息秉承“博观而约取”的理念，以语义计算（Computing Meaning）为引擎，以语义网（Ontology）为载体，长期专注于自然语言理解技术（NLP）的创新与深度研发，构建机器“类脑”，以此挖掘数据价值，扩展认知能力，提供各种AI+行业的解决方案，为商业企业赋能。
 
-<p>
+##兴趣
+关注前端、学习新框架、算法 
+努力成为一名优秀的工程师
 
-所在公司
-<a target="_blank" href="https://www.talkingdata.com/"> TalkingData </a>
-是一个移动互联网大数据平台的公司，无论你是运营、产品、开发 或者是App终端用户都可以了解下我们公司。
-<p>
+##地址/address
+地址:广东省广州市番禺区
 
-推荐一个我维护的 Team 博客
-<a target="_blank" href="http://talkingdata.me/"> voyagelab </a>
-里面有一些关于 iOS 、Android 和 机器学习 的文章。
-
-<p>
-
-<h3> 我们的博客 </h3>  
-
-<p>
-
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
-
-<p>
-
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<p> 
-
-<p> 
-
-<p> 
-
-
-{% include comments.html %}
-
+##邮箱/email
+邮箱:huangxiaowei@gzjtit.com
