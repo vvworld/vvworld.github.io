@@ -18,7 +18,7 @@ ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: Y
 停止： net stop mysql
 启动： net start mysql
 
-此时，cmd启动万mysql输入mysql -u root -p，此时mysql不需要登录密码。
+此时，cmd启动完mysql输入mysql -u root -p，此时mysql不需要登录密码。
 
 ```
 mysql> use mysql;
